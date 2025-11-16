@@ -10,6 +10,7 @@
     font-style: normal;
     text-underline-offset: 4px;
     letter-spacing: 0.01em;
+
 }
 
 .header__links-list-item_no-bullit {
@@ -29,7 +30,6 @@
 
 }
 
-.header__menu {}
 
 .header {
     font-size: 18px;
