@@ -1,1 +1,1 @@
-git@github.com:DaniilTimonov/ono-tebe-nado-fd.git
+https://github.com/DaniilTimonov/ono-tebe-nado-fd.git
